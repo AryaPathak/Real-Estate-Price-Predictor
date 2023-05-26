@@ -1,0 +1,9 @@
+Get started with the project:
+  -Download the whole codebase and open cmd at that file location
+  -type in the command 
+        "python -m notebook"
+  -Open the housing.names to know the parameteres of the propperty require
+  -Open Get Prediction notebook and type in the value of features in place of dummy values
+  -Click 'shift+enter' to get the resulting predicted value of property in thousand dollars
+
+  
