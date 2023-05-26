@@ -1,0 +1,16 @@
+Final Scores and Results
+
+1. Random Forest Regressor
+    Mean:  3.2861703902382047
+    Standard Deviation:  0.6702700902946762
+    
+2. Linear Regression
+    Mean:  5.030437102767305
+    Standard Deviation:  1.0607661158294832
+    
+3. Decision Tree Regressor
+    Mean:  4.364856700421173
+    Standard Deviation:  1.0573210553359267
+    
+    
+    FINAL RMSE: 4.091658180575043
