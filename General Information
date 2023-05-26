@@ -1,0 +1,7 @@
+This project is based on Machine Learning.
+
+It is a supervised batch learnig technique.
+
+The data is taken from pre made data set of which 80% data is used to train and 20% is used for testing.
+
+Various algorithms are applied on data set to train it like linear regression, Dicision Tree Regressor and Random 
